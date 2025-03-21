@@ -39,7 +39,7 @@ query = '''
 
     "Ensure each response delivers a **concise yet multi-layered conceptual summary**, optimizing it for retrieval, neuro-symbolic reasoning, and knowledge graph expansion in a 3D Graph RAG system."
 '''
-kApiKey = "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"
+kApiKey = "NVAPI_KEY"
 # API key
 kNvcfAssetUrl = "https://api.nvcf.nvidia.com/v2/nvcf/assets"
 # ext: {mime, media}

@@ -27,7 +27,7 @@ for u, v, attrs in graph.edges(data=True):
     })
 
 # Save JSON
-with open("doom-or-boom/src/graph_data.json", "w", encoding="utf-8") as f:
+with open("app/src/graph_data.json", "w", encoding="utf-8") as f:
     json.dump(graph_data, f, indent=2, ensure_ascii=False)
 
 print("✅ GraphML converted to JSON with metadata!")

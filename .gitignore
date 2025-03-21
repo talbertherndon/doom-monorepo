@@ -5,12 +5,9 @@ dist/
 **/node_modules/
 **/dist/
 **/build/
-**/coverage/
-**/public/
-**/src/
-**/src/assets/
-**/src/assets/images/
-**/src/assets/videos/
+**/output/
+**/cache/
+**/logs/
 *.log
 *.env
 *.env.local

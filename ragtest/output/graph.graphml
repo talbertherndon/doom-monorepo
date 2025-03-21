@@ -1,0 +1,180 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d10" for="edge" attr.name="url" attr.type="string" />
+  <key id="d9" for="edge" attr.name="description_y" attr.type="string" />
+  <key id="d8" for="edge" attr.name="title" attr.type="string" />
+  <key id="d7" for="edge" attr.name="n_tokens" attr.type="long" />
+  <key id="d6" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="edge" attr.name="description_x" attr.type="string" />
+  <key id="d4" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d3" for="edge" attr.name="text_unit_ids" attr.type="string" />
+  <key id="d2" for="node" attr.name="url" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="title" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="FACEBOOK MARKETPLACE">
+      <data key="d0">Lone Fox on TikTok</data>
+      <data key="d1">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </node>
+    <node id="290-SQUARE-FOOT STUDIO APARTMENT">
+      <data key="d0">Lone Fox on TikTok</data>
+      <data key="d1">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </node>
+    <node id="MID-CENTURY DRESSER">
+      <data key="d0">Lone Fox on TikTok</data>
+      <data key="d1">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </node>
+    <node id="QUEEN-SIZED HEADBOARD">
+      <data key="d0">Lone Fox on TikTok</data>
+      <data key="d1">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </node>
+    <node id="DIY ELEMENTS">
+      <data key="d0">Lone Fox on TikTok</data>
+      <data key="d1">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </node>
+    <node id="FABRIC STORE">
+      <data key="d0">Lone Fox on TikTok</data>
+      <data key="d1">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </node>
+    <node id="HOME AUTOMATION">
+      <data key="d0">osyqo on TikTok</data>
+      <data key="d1">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </node>
+    <node id="SMART LIGHTING">
+      <data key="d0">osyqo on TikTok</data>
+      <data key="d1">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </node>
+    <node id="PERSON">
+      <data key="d0">osyqo on TikTok</data>
+      <data key="d1">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </node>
+    <node id="TABLET">
+      <data key="d0">osyqo on TikTok</data>
+      <data key="d1">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </node>
+    <node id="APP INTERFACE">
+      <data key="d0">osyqo on TikTok</data>
+      <data key="d1">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d2">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </node>
+    <edge source="FACEBOOK MARKETPLACE" target="290-SQUARE-FOOT STUDIO APARTMENT">
+      <data key="d3">7ffcd1df4776f316c454d3299b083c5480c3420bb44ff886d64801ba02eb9c9dac2fa3a885936ac514893881104a364d4b6959514388668315aee4c4e4b15761</data>
+      <data key="d4">7.0</data>
+      <data key="d5">Facebook Marketplace was used to buy and sell items for the transformation of the studio apartment</data>
+      <data key="d6">0</data>
+      <data key="d7">147</data>
+      <data key="d8">Lone Fox on TikTok</data>
+      <data key="d9">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </edge>
+    <edge source="290-SQUARE-FOOT STUDIO APARTMENT" target="MID-CENTURY DRESSER">
+      <data key="d3">7ffcd1df4776f316c454d3299b083c5480c3420bb44ff886d64801ba02eb9c9dac2fa3a885936ac514893881104a364d4b6959514388668315aee4c4e4b15761</data>
+      <data key="d4">6.0</data>
+      <data key="d5">The mid-century dresser was purchased as part of the studio apartment's transformation</data>
+      <data key="d6">1</data>
+      <data key="d7">147</data>
+      <data key="d8">Lone Fox on TikTok</data>
+      <data key="d9">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </edge>
+    <edge source="290-SQUARE-FOOT STUDIO APARTMENT" target="QUEEN-SIZED HEADBOARD">
+      <data key="d3">7ffcd1df4776f316c454d3299b083c5480c3420bb44ff886d64801ba02eb9c9dac2fa3a885936ac514893881104a364d4b6959514388668315aee4c4e4b15761</data>
+      <data key="d4">1.0</data>
+      <data key="d5">The queen-sized headboard was a DIY project for the studio apartment's transformation</data>
+      <data key="d6">2</data>
+      <data key="d7">147</data>
+      <data key="d8">Lone Fox on TikTok</data>
+      <data key="d9">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </edge>
+    <edge source="290-SQUARE-FOOT STUDIO APARTMENT" target="DIY ELEMENTS">
+      <data key="d3">7ffcd1df4776f316c454d3299b083c5480c3420bb44ff886d64801ba02eb9c9dac2fa3a885936ac514893881104a364d4b6959514388668315aee4c4e4b15761</data>
+      <data key="d4">6.0</data>
+      <data key="d5">DIY elements were used in the transformation of the studio apartment</data>
+      <data key="d6">3</data>
+      <data key="d7">147</data>
+      <data key="d8">Lone Fox on TikTok</data>
+      <data key="d9">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </edge>
+    <edge source="290-SQUARE-FOOT STUDIO APARTMENT" target="FABRIC STORE">
+      <data key="d3">7ffcd1df4776f316c454d3299b083c5480c3420bb44ff886d64801ba02eb9c9dac2fa3a885936ac514893881104a364d4b6959514388668315aee4c4e4b15761</data>
+      <data key="d4">1.0</data>
+      <data key="d5">Fabric from the store was used to reupholster furniture in the studio apartment</data>
+      <data key="d6">4</data>
+      <data key="d7">147</data>
+      <data key="d8">Lone Fox on TikTok</data>
+      <data key="d9">The smallest apartment i&#8217;ve made over BUT I kinda wanna move in&#8230; &#129321; #studioapartment #studio #apartmentmakeover #roommakeover </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7255399405438668075/</data>
+    </edge>
+    <edge source="HOME AUTOMATION" target="SMART LIGHTING">
+      <data key="d3">edeb353edad32ee14a423ea823a313a1b35385abdc47da3babd6a576c122bf9395ed92715a6d8be1848a32e68514a83407e87f8f10a97e388a12d9e5d59fc2f5</data>
+      <data key="d4">8.0</data>
+      <data key="d5">Smart lighting is a component of home automation that allows for personalized control of lighting</data>
+      <data key="d6">5</data>
+      <data key="d7">92</data>
+      <data key="d8">osyqo on TikTok</data>
+      <data key="d9">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </edge>
+    <edge source="HOME AUTOMATION" target="PERSON">
+      <data key="d3">edeb353edad32ee14a423ea823a313a1b35385abdc47da3babd6a576c122bf9395ed92715a6d8be1848a32e68514a83407e87f8f10a97e388a12d9e5d59fc2f5</data>
+      <data key="d4">1.0</data>
+      <data key="d5">The person is engaging with home automation through the use of smart lighting</data>
+      <data key="d6">6</data>
+      <data key="d7">92</data>
+      <data key="d8">osyqo on TikTok</data>
+      <data key="d9">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </edge>
+    <edge source="SMART LIGHTING" target="TABLET">
+      <data key="d3">edeb353edad32ee14a423ea823a313a1b35385abdc47da3babd6a576c122bf9395ed92715a6d8be1848a32e68514a83407e87f8f10a97e388a12d9e5d59fc2f5</data>
+      <data key="d4">1.0</data>
+      <data key="d5">The tablet is used to control smart lighting as part of home automation</data>
+      <data key="d6">7</data>
+      <data key="d7">92</data>
+      <data key="d8">osyqo on TikTok</data>
+      <data key="d9">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </edge>
+    <edge source="PERSON" target="TABLET">
+      <data key="d3">edeb353edad32ee14a423ea823a313a1b35385abdc47da3babd6a576c122bf9395ed92715a6d8be1848a32e68514a83407e87f8f10a97e388a12d9e5d59fc2f5</data>
+      <data key="d4">7.0</data>
+      <data key="d5">The person uses the tablet to control the smart lighting in their home</data>
+      <data key="d6">9</data>
+      <data key="d7">92</data>
+      <data key="d8">osyqo on TikTok</data>
+      <data key="d9">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </edge>
+    <edge source="PERSON" target="APP INTERFACE">
+      <data key="d3">edeb353edad32ee14a423ea823a313a1b35385abdc47da3babd6a576c122bf9395ed92715a6d8be1848a32e68514a83407e87f8f10a97e388a12d9e5d59fc2f5</data>
+      <data key="d4">7.0</data>
+      <data key="d5">The person interacts with the app interface to adjust the lighting</data>
+      <data key="d6">10</data>
+      <data key="d7">92</data>
+      <data key="d8">osyqo on TikTok</data>
+      <data key="d9">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </edge>
+    <edge source="TABLET" target="APP INTERFACE">
+      <data key="d3">edeb353edad32ee14a423ea823a313a1b35385abdc47da3babd6a576c122bf9395ed92715a6d8be1848a32e68514a83407e87f8f10a97e388a12d9e5d59fc2f5</data>
+      <data key="d4">9.0</data>
+      <data key="d5">The app interface is used on a tablet to control smart lighting</data>
+      <data key="d6">8</data>
+      <data key="d7">92</data>
+      <data key="d8">osyqo on TikTok</data>
+      <data key="d9">at peace &#128524;  #roominspo #livingroom #ambientlighting #apartmentdecor </data>
+      <data key="d10">https://www.tiktokv.com/share/video/7448703919313685782/</data>
+    </edge>
+  </graph>
+</graphml>
